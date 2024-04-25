@@ -1,7 +1,6 @@
-# Rollercoin Calculator
+# Limercoin calculator
 
-The most accurate and complete Rollercoin calculator 
+The only dedicated Limercoin calculator 
 
-![Rollercoin main screenshot image](.assets/screenshot.png)
 
-Calculate your expected earnings
+Calculate your earnings
